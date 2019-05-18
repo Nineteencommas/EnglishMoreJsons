@@ -1,0 +1,596 @@
+{
+    "wince": [
+        {
+            "example": "I winced at the awful smell.",
+            "explain": "to draw back in fear, pain, or disgust ",
+            "near": [
+                "advance",
+                "approach",
+                "near",
+                "challenge",
+                "confront",
+                "defy",
+                "face"
+            ],
+            "rel": [
+                "blanch",
+                "pale",
+                "whiten",
+                "quake",
+                "quiver",
+                "shake",
+                "shudder",
+                "tremble",
+                "crouch",
+                "squinch",
+                "jerk",
+                "start",
+                "twitch",
+                "recede",
+                "retire",
+                "retreat",
+                "withdraw",
+                "falter",
+                "hesitate",
+                "reel",
+                "waver"
+            ],
+            "syn": [
+                "blench",
+                "cringe",
+                "flinch",
+                "quail",
+                "recoil",
+                "shrink"
+            ]
+        }
+    ],
+    "windy": [
+        {
+            "example": "One particularly windy day should shake the last of the autumn leaves from the trees.",
+            "explain": "marked by strong wind or more wind than usual ",
+            "near": [
+                "breathless",
+                "calm",
+                "motionless",
+                "still"
+            ],
+            "rel": [
+                "drafty",
+                "stormy",
+                "tempestuous"
+            ],
+            "syn": [
+                "blowy",
+                "blustery",
+                "breezy",
+                "gusty",
+                "squally"
+            ]
+        },
+        {
+            "example": "He gave his usual windy speech about working for the people.",
+            "explain": "marked by the use of impressive-sounding but mostly meaningless words and phrases ",
+            "near": [
+                "eloquent",
+                "well-spoken",
+                "bald",
+                "direct",
+                "matter-of-fact",
+                "plain",
+                "plainspoken",
+                "simple",
+                "stark",
+                "straightforward",
+                "unadorned",
+                "unaffected",
+                "unpretentious"
+            ],
+            "rel": [
+                "elevated",
+                "florid",
+                "flowery",
+                "grandiose",
+                "highfalutin",
+                "high-flown",
+                "high-sounding",
+                "inflated",
+                "lofty",
+                "pompous",
+                "pretentious",
+                "stilted",
+                "overdone",
+                "verbose",
+                "wordy"
+            ],
+            "syn": [
+                "bombastic",
+                "gaseous",
+                "gassy",
+                "grandiloquent",
+                "oratorical",
+                "rhetorical"
+            ]
+        },
+        {
+            "example": "A windy saleswoman told us a lot more than we wanted to know about vacuum cleaners.",
+            "explain": "using or containing more words than necessary to express an idea ",
+            "near": [
+                "brief",
+                "short",
+                "aphoristic",
+                "epigrammatic",
+                "sententious",
+                "compendious",
+                "summary",
+                "abbreviated",
+                "abridged",
+                "condensed",
+                "shortened",
+                "abrupt",
+                "blunt",
+                "brusque",
+                "curt",
+                "laconic",
+                "snippy"
+            ],
+            "rel": [
+                "chatty",
+                "communicative",
+                "conversational",
+                "gabby",
+                "garrulous",
+                "loquacious",
+                "talkative",
+                "talky",
+                "voluble",
+                "redundant",
+                "repetitious",
+                "tautological",
+                "embellished",
+                "embroidered",
+                "exaggerated",
+                "bombastic",
+                "grandiloquent",
+                "highfalutin"
+            ],
+            "syn": [
+                "circuitous",
+                "circumlocutory",
+                "diffuse",
+                "long-winded",
+                "prolix",
+                "rambling",
+                "verbose",
+                "wordy"
+            ]
+        }
+    ],
+    "winsome": [
+        {
+            "example": "The cute waiter gave her a winsome look.",
+            "explain": "likely to win one's affection ",
+            "near": [
+                "alienating",
+                "disaffecting",
+                "displeasing",
+                "repugnant",
+                "repulsive",
+                "arrogant",
+                "disdainful",
+                "haughty",
+                "insolent",
+                "proud",
+                "scornful"
+            ],
+            "rel": [
+                "adorable",
+                "charming",
+                "likable",
+                "lovable",
+                "affecting",
+                "poignant",
+                "touching",
+                "adulatory",
+                "deferential",
+                "groveling",
+                "kowtowing",
+                "obsequious",
+                "servile",
+                "sycophantic",
+                "drooling",
+                "slavering",
+                "slobbering",
+                "soapy",
+                "sugary",
+                "unctuous"
+            ],
+            "syn": [
+                "disarming",
+                "endearing",
+                "ingratiating",
+                "winning"
+            ]
+        },
+        {
+            "example": "She was a bright, winsome lass who could draw a smile out of anyone.",
+            "explain": "having or showing a good mood or disposition ",
+            "near": [
+                "dull",
+                "lethargic",
+                "listless",
+                "sluggish",
+                "torpid",
+                "blue",
+                "dejected",
+                "depressed",
+                "heavyhearted",
+                "melancholy",
+                "sorrowful",
+                "discontented",
+                "disgruntled",
+                "unhappy"
+            ],
+            "rel": [
+                "hopeful",
+                "optimistic",
+                "sanguine",
+                "jaunty",
+                "lively",
+                "perky",
+                "sprightly",
+                "vivacious",
+                "carefree",
+                "careless",
+                "cavalier",
+                "devil-may-care",
+                "easygoing",
+                "happy-go-lucky",
+                "insouciant",
+                "lighthearted",
+                "unconcerned",
+                "boon",
+                "jolly",
+                "jovial",
+                "merry",
+                "mirthful",
+                "glad",
+                "happy",
+                "pleased"
+            ],
+            "syn": [
+                "blithe",
+                "blithesome",
+                "bright",
+                "buoyant",
+                "cheerful",
+                "cheery",
+                "chipper",
+                "gay",
+                "gladsome",
+                "lightsome",
+                "sunny",
+                "upbeat"
+            ]
+        }
+    ],
+    "withdraw": [
+        {
+            "example": "The army was forced to withdraw from the line of battle.",
+            "explain": "to move back or away (as from something difficult, dangerous, or disagreeable) ",
+            "near": [
+                "beard",
+                "brave",
+                "brazen",
+                "breast",
+                "confront",
+                "dare",
+                "defy",
+                "face",
+                "outbrave"
+            ],
+            "rel": [
+                "flinch",
+                "recoil",
+                "shrink",
+                "chicken (out)",
+                "back down",
+                "backtrack",
+                "abandon",
+                "depart",
+                "evacuate",
+                "go",
+                "leave",
+                "quit",
+                "vacate"
+            ],
+            "syn": [
+                "back away",
+                "fall back",
+                "recede",
+                "retire",
+                "retreat"
+            ]
+        },
+        {
+            "example": "He withdrew the offer of surrender upon hearing the terms.",
+            "explain": "to solemnly or formally reject or go back on (as something formerly adhered to) ",
+            "near": [
+                "acknowledge",
+                "admit",
+                "affirm",
+                "assert",
+                "avow",
+                "claim",
+                "contend",
+                "declare",
+                "maintain",
+                "proclaim",
+                "profess",
+                "state",
+                "back",
+                "confirm",
+                "endorse",
+                "espouse",
+                "support",
+                "uphold",
+                "accept",
+                "adopt",
+                "embrace"
+            ],
+            "rel": [
+                "contradict",
+                "deny",
+                "disavow",
+                "disclaim",
+                "disown",
+                "gainsay",
+                "negate",
+                "negative",
+                "repudiate",
+                "abandon",
+                "forsake",
+                "give up",
+                "relinquish",
+                "spurn",
+                "surrender",
+                "controvert",
+                "disagree (with)",
+                "disprove",
+                "dispute",
+                "rebut",
+                "refute",
+                "back down",
+                "back off",
+                "backtrack",
+                "disallow",
+                "recall",
+                "renege",
+                "revoke"
+            ],
+            "syn": [
+                "abjure",
+                "abnegate",
+                "recant",
+                "renounce",
+                "retract",
+                "take back",
+                "unsay"
+            ]
+        },
+        {
+            "example": "She withdrew her hand from the table.",
+            "explain": "to take away from a place or position ",
+            "near": [
+                "mount"
+            ],
+            "rel": [
+                "demount",
+                "dislodge",
+                "abstract",
+                "cut",
+                "extract",
+                "pull",
+                "move",
+                "shift",
+                "transfer"
+            ],
+            "syn": [
+                "clear",
+                "draw",
+                "remove"
+            ]
+        }
+    ],
+    "wither": [
+        {
+            "example": "Shortly after the moon landing, interest in the space program withered.",
+            "explain": "to lose liveliness, force, or freshness ",
+            "near": [
+                "freshen",
+                "revive",
+                "flourish",
+                "prosper",
+                "thrive",
+                "develop",
+                "grow",
+                "increase",
+                "wax",
+                "crest",
+                "peak",
+                "surge"
+            ],
+            "rel": [
+                "mummify",
+                "shrivel",
+                "wizen",
+                "decline",
+                "fade",
+                "wane",
+                "decrease",
+                "diminish",
+                "lessen"
+            ],
+            "syn": [
+                "dry",
+                "wilt"
+            ]
+        }
+    ],
+    "withhold": [
+        {
+            "example": "We must withhold official approval until all proper forms have been submitted.",
+            "explain": "to be unwilling to grant ",
+            "near": [
+                "afford",
+                "furnish",
+                "give",
+                "provide",
+                "supply"
+            ],
+            "rel": [
+                "rebuff",
+                "repel",
+                "spurn",
+                "check",
+                "constrain",
+                "hold",
+                "keep",
+                "restrain",
+                "restrict"
+            ],
+            "syn": [
+                "decline",
+                "deny",
+                "disallow",
+                "refuse",
+                "reject"
+            ]
+        },
+        {
+            "example": "Withhold some money for your own expenses.",
+            "explain": "to continue to have in one\u02bcs possession or power ",
+            "near": [
+                "abandon",
+                "cede",
+                "yield",
+                "contribute",
+                "donate",
+                "give",
+                "discard",
+                "dump",
+                "decline",
+                "reject",
+                "repudiate",
+                "spurn"
+            ],
+            "rel": [
+                "conserve",
+                "preserve",
+                "save",
+                "enjoy",
+                "have",
+                "own",
+                "possess",
+                "conduct",
+                "control",
+                "detain",
+                "direct",
+                "bear",
+                "harbor"
+            ],
+            "syn": [
+                "hang on (to)",
+                "hold",
+                "keep",
+                "reserve",
+                "retain"
+            ]
+        }
+    ],
+    "worldly": [
+        {
+            "example": "She returned from her year as an exchange student a much more worldly person.",
+            "explain": "having a wide and refined knowledge of the world especially from personal experience ",
+            "near": [
+                "callow",
+                "green",
+                "inexperienced",
+                "raw",
+                "parochial",
+                "provincial",
+                "rustic",
+                "philistine",
+                "uncivilized",
+                "uncultured",
+                "unrefined",
+                "childlike",
+                "simple",
+                "simpleminded",
+                "idealistic",
+                "impractical",
+                "uncritical",
+                "unknowing"
+            ],
+            "rel": [
+                "suave",
+                "urbane",
+                "civilized",
+                "cultivated",
+                "cultured",
+                "polished",
+                "refined",
+                "experienced",
+                "knowing",
+                "practiced",
+                "schooled",
+                "seasoned",
+                "bored",
+                "cynical",
+                "jaded",
+                "skeptical",
+                "down-to-earth",
+                "pragmatic",
+                "realistic",
+                "sober"
+            ],
+            "syn": [
+                "cosmopolitan",
+                "smart",
+                "sophisticated",
+                "worldly-wise"
+            ]
+        },
+        {
+            "example": "Try not to be so preoccupied with worldly concerns.",
+            "explain": "having to do with life on earth especially as opposed to that in heaven ",
+            "near": [
+                "celestial",
+                "empyreal",
+                "empyrean",
+                "divine",
+                "spiritual",
+                "utopian",
+                "extraterrestrial"
+            ],
+            "rel": [
+                "bodily",
+                "corporal",
+                "corporeal",
+                "physical",
+                "daily",
+                "diurnal",
+                "unspiritual"
+            ],
+            "syn": [
+                "carnal",
+                "earthly",
+                "fleshly",
+                "material",
+                "mundane",
+                "temporal",
+                "terrestrial"
+            ]
+        }
+    ]
+}
