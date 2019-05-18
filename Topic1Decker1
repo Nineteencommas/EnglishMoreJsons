@@ -1,0 +1,635 @@
+{
+    "refine": [
+        {
+            "example": "She worked on refining her backhand for the big tennis match.",
+            "explain": "to make better ",
+            "near": [
+                "damage",
+                "harm",
+                "hurt",
+                "impair",
+                "injure",
+                "spoil",
+                "tarnish",
+                "blemish",
+                "blight",
+                "deface",
+                "disfigure",
+                "flaw",
+                "mar",
+                "diminish",
+                "lessen",
+                "lower",
+                "reduce"
+            ],
+            "rel": [
+                "correct",
+                "emend",
+                "rectify",
+                "reform",
+                "remedy",
+                "help",
+                "edit",
+                "revise",
+                "upgrade",
+                "fortify",
+                "intensify",
+                "strengthen",
+                "retouch",
+                "touch up"
+            ],
+            "syn": [
+                "ameliorate",
+                "amend",
+                "better",
+                "enhance",
+                "enrich",
+                "improve",
+                "meliorate",
+                "perfect",
+                "upgrade"
+            ]
+        }
+    ],
+    "refractory": [
+        {
+            "example": "Refractory players will be ejected from the game.",
+            "explain": "given to resisting authority or another\u02bcs control ",
+            "near": [
+                "acquiescent",
+                "agreeable",
+                "amiable",
+                "deferential",
+                "obliging",
+                "submissive",
+                "yielding",
+                "behaved",
+                "disciplined",
+                "well-bred",
+                "courteous",
+                "polite",
+                "respectful",
+                "servile",
+                "slavish",
+                "subservient",
+                "decorous",
+                "orderly",
+                "proper",
+                "controllable",
+                "governable",
+                "manageable"
+            ],
+            "rel": [
+                "insurgent",
+                "mutinous",
+                "dogged",
+                "hardheaded",
+                "headstrong",
+                "mulish",
+                "obdurate",
+                "obstinate",
+                "peevish",
+                "pertinacious",
+                "pigheaded",
+                "self-willed",
+                "stubborn",
+                "unyielding",
+                "obstreperous",
+                "uncontrollable",
+                "unmanageable",
+                "wild",
+                "perverse",
+                "resistant",
+                "wrongheaded",
+                "bad",
+                "disorderly",
+                "errant",
+                "misbehaving",
+                "mischievous",
+                "monkeying",
+                "monkeyish",
+                "naughty",
+                "undisciplined",
+                "dissident",
+                "nonconformist",
+                "disrespectful",
+                "ill-mannered",
+                "ill-natured",
+                "impolite",
+                "impudent",
+                "insolent",
+                "ornery",
+                "rude",
+                "uncouth"
+            ],
+            "syn": [
+                "balky",
+                "contrary",
+                "defiant",
+                "disobedient",
+                "froward",
+                "insubordinate",
+                "intractable",
+                "rebellious",
+                "recalcitrant",
+                "restive",
+                "ungovernable",
+                "unruly",
+                "untoward",
+                "wayward",
+                "willful"
+            ]
+        },
+        {
+            "example": "Believing that rules are only for other people, he\u02bcs been refractory virtually his entire life.",
+            "explain": "given to resisting control or discipline by others ",
+            "near": [
+                "docile",
+                "obedient",
+                "well-behaved",
+                "compliant",
+                "submissive",
+                "yielding"
+            ],
+            "rel": [
+                "contrary",
+                "incorrigible",
+                "obstinate",
+                "perverse",
+                "self-willed",
+                "stubborn",
+                "undisciplined",
+                "unpunished",
+                "uncontrolled",
+                "ungoverned",
+                "wild",
+                "boisterous",
+                "rambunctious",
+                "rowdy",
+                "disobedient",
+                "insubordinate",
+                "rebellious",
+                "misbehaving",
+                "naughty"
+            ],
+            "syn": [
+                "froward",
+                "headstrong",
+                "intractable",
+                "recalcitrant",
+                "uncontrollable",
+                "ungovernable",
+                "unmanageable",
+                "unruly",
+                "untoward",
+                "wayward",
+                "willful"
+            ]
+        }
+    ],
+    "refulgent": [
+        {
+            "example": "Refulgent sunlight broke through the clouds, creating huge swaths of light in the valley below.",
+            "explain": "giving off or reflecting much light ",
+            "near": [
+                "blackened",
+                "dark",
+                "darkened",
+                "darkish",
+                "darkling",
+                "darksome",
+                "dimmed",
+                "dusky",
+                "gloomy",
+                "murky",
+                "obscure",
+                "obscured",
+                "pitch-black",
+                "pitch-dark",
+                "somber"
+            ],
+            "rel": [
+                "blazing",
+                "burning",
+                "combusting",
+                "fiery",
+                "flaming",
+                "agleam",
+                "aglitter",
+                "blinding",
+                "flaring",
+                "flashing",
+                "flickering",
+                "glaring",
+                "gleaming",
+                "glimmering",
+                "glinting",
+                "glistening",
+                "glittering",
+                "scintillating",
+                "shimmering",
+                "sparkling",
+                "twinkling",
+                "burnished",
+                "polished",
+                "sunny"
+            ],
+            "syn": [
+                "beaming",
+                "bedazzling",
+                "bright",
+                "brilliant",
+                "clear",
+                "dazzling",
+                "effulgent",
+                "glowing",
+                "incandescent",
+                "lambent",
+                "lucent",
+                "lucid",
+                "luminous",
+                "lustrous",
+                "radiant",
+                "shining",
+                "shiny"
+            ]
+        }
+    ],
+    "refute": [
+        {
+            "example": "The victories of African-American athlete Jesse Owens in the 1936 Olympics effectively refuted the racial views of the Nazis.",
+            "explain": "to prove to be false ",
+            "near": [
+                "evidence",
+                "show",
+                "demonstrate",
+                "display",
+                "illustrate",
+                "manifest",
+                "argue",
+                "reason"
+            ],
+            "rel": [
+                "overthrow",
+                "overturn"
+            ],
+            "syn": [
+                "belie",
+                "confute",
+                "disprove",
+                "rebut"
+            ]
+        }
+    ],
+    "regress": [
+        {
+            "example": "In extreme circumstances, people sometimes regress to childhood behaviors.",
+            "explain": "to go back to a previous and usually lower state or level ",
+            "near": [
+                "grow",
+                "mature",
+                "ripen"
+            ],
+            "rel": [
+                "backslide",
+                "lapse",
+                "relapse",
+                "return"
+            ],
+            "syn": [
+                "retrogress",
+                "revert"
+            ]
+        }
+    ],
+    "rehabilitate": [
+        {
+            "example": "an organization that rehabilitates criminals so they can reenter society",
+            "explain": "to make better in behavior or character ",
+            "near": [
+                "abase",
+                "corrupt",
+                "debauch",
+                "degrade",
+                "demean",
+                "demoralize",
+                "deprave",
+                "pervert",
+                "poison",
+                "profane",
+                "prostitute",
+                "subvert",
+                "warp"
+            ],
+            "rel": [
+                "amend",
+                "improve",
+                "cleanse",
+                "purify",
+                "restore"
+            ],
+            "syn": [
+                "reclaim",
+                "redeem",
+                "reform"
+            ]
+        },
+        {
+            "example": "She's undergoing physical therapy to help rehabilitate her broken elbow.",
+            "explain": "to restore to a healthy condition ",
+            "near": [
+                "damage",
+                "disable",
+                "harm",
+                "hurt",
+                "impair",
+                "injure",
+                "lacerate",
+                "lame",
+                "maim",
+                "mangle",
+                "mutilate",
+                "wound",
+                "afflict",
+                "ail",
+                "debilitate",
+                "enervate",
+                "enfeeble",
+                "lay up",
+                "sap",
+                "sicken",
+                "waste",
+                "weaken"
+            ],
+            "rel": [
+                "attend (to)",
+                "care (for)",
+                "doctor",
+                "minister (to)",
+                "nurse",
+                "treat",
+                "fortify",
+                "rejuvenate",
+                "renew",
+                "resuscitate",
+                "revive",
+                "alleviate",
+                "fix",
+                "relieve",
+                "remedy",
+                "repair"
+            ],
+            "syn": [
+                "cure",
+                "heal",
+                "mend"
+            ]
+        }
+    ],
+    "rein": [
+        {
+            "example": "The vice-president is expected to take the reins of the company.",
+            "explain": "the place of leadership or command ",
+            "near": [
+                "ranks"
+            ],
+            "rel": [
+                "chieftainship",
+                "commandership",
+                "directorship",
+                "forefront",
+                "lead",
+                "preferment",
+                "chairmanship",
+                "deanship",
+                "dictatorship",
+                "governorship",
+                "kingship",
+                "mastership",
+                "mastery",
+                "presidency",
+                "superintendency",
+                "dominance",
+                "dominion",
+                "jurisdiction",
+                "sovereignty",
+                "sway",
+                "upper hand",
+                "eminence",
+                "height",
+                "pedestal",
+                "pinnacle",
+                "seat",
+                "throne",
+                "top"
+            ],
+            "syn": [
+                "chair",
+                "head",
+                "headship",
+                "helm"
+            ]
+        }
+    ],
+    "rejoice": [
+        {
+            "example": "Our team rejoiced over our unexpected victory on the soccer field.",
+            "explain": "to feel or express joy or triumph ",
+            "near": [
+                "bemoan",
+                "bewail",
+                "grieve",
+                "lament",
+                "weep"
+            ],
+            "rel": [
+                "gloat",
+                "boast",
+                "brag",
+                "flaunt",
+                "parade",
+                "show off",
+                "strut",
+                "swagger"
+            ],
+            "syn": [
+                "crow",
+                "delight",
+                "exult",
+                "glory",
+                "joy",
+                "triumph"
+            ]
+        },
+        {
+            "example": "Your thoughtful present has rejoiced me greatly.",
+            "explain": "to give satisfaction to ",
+            "near": [
+                "aggravate",
+                "annoy",
+                "bother",
+                "bug",
+                "chafe",
+                "cross",
+                "exasperate",
+                "gall",
+                "get",
+                "grate",
+                "irk",
+                "irritate",
+                "nettle",
+                "peeve",
+                "perturb",
+                "pique",
+                "put out",
+                "ruffle",
+                "vex",
+                "anger",
+                "enrage",
+                "incense",
+                "inflame",
+                "infuriate",
+                "madden",
+                "outrage",
+                "rankle",
+                "rile",
+                "roil",
+                "provoke",
+                "rouse",
+                "agitate",
+                "distress",
+                "disturb",
+                "fret",
+                "upset",
+                "harass",
+                "harry",
+                "pester",
+                "affront",
+                "insult",
+                "offend"
+            ],
+            "rel": [
+                "appease",
+                "mollify",
+                "pacify",
+                "placate",
+                "soothe",
+                "assuage",
+                "quench",
+                "sate",
+                "satiate",
+                "excite",
+                "tickle",
+                "titillate",
+                "overjoy",
+                "thrill",
+                "calm",
+                "comfort",
+                "cater (to)",
+                "humor",
+                "indulge",
+                "coddle",
+                "mollycoddle",
+                "pamper",
+                "spoil"
+            ],
+            "syn": [
+                "content",
+                "delight",
+                "gladden",
+                "gratify",
+                "please",
+                "satisfy",
+                "suit",
+                "warm"
+            ]
+        }
+    ],
+    "relentless": [
+        {
+            "example": "The team\u02bcs offense was relentless in trying to score a touchdown.",
+            "explain": "showing no signs of slackening or yielding in one\u02bcs purpose ",
+            "near": [
+                "slackening",
+                "softening",
+                "yielding",
+                "impotent",
+                "invertebrate",
+                "slack",
+                "spineless",
+                "weak"
+            ],
+            "rel": [
+                "hardheaded",
+                "headstrong",
+                "mulish",
+                "obdurate",
+                "opinionated",
+                "peevish",
+                "pertinacious",
+                "perverse",
+                "pigheaded",
+                "self-willed",
+                "stubborn",
+                "uncooperative",
+                "willful",
+                "merciless",
+                "ruthless",
+                "unforgiving"
+            ],
+            "syn": [
+                "determined",
+                "dogged",
+                "grim",
+                "implacable",
+                "unappeasable",
+                "unflinching",
+                "unrelenting",
+                "unyielding"
+            ]
+        }
+    ],
+    "relevant": [
+        {
+            "example": "Make sure your comments during the class discussion are short and relevant.",
+            "explain": "having to do with the matter at hand ",
+            "near": [
+                "inconsequential",
+                "insignificant",
+                "unimportant",
+                "meaningless",
+                "purposeless",
+                "senseless",
+                "useless",
+                "inappropriate",
+                "inapt",
+                "unsuitable",
+                "inadmissible"
+            ],
+            "rel": [
+                "appropriate",
+                "apt",
+                "fit",
+                "fitting",
+                "suitable",
+                "important",
+                "meaningful",
+                "significant",
+                "sensible",
+                "useful",
+                "admissible",
+                "allowable"
+            ],
+            "syn": [
+                "applicable",
+                "apposite",
+                "apropos",
+                "germane",
+                "material",
+                "pertinent",
+                "pointed",
+                "relative"
+            ]
+        }
+    ]
+}
