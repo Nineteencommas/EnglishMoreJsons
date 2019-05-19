@@ -1,0 +1,17 @@
+{
+	"GRE" ：
+	{
+		"total" : 2000,
+		"numPerDecker" : [50,50,50,50,51,49,52]
+	}
+	"TOEFL" :
+	{
+		"total" : 3000,
+		"numPerDecker" ： [20,20,30,21,20,32]
+	}
+	"SAT" ：
+	{
+		"total" : 4000,
+		"numPerDecker" :  [10,11,12,13,14]
+	}
+}
